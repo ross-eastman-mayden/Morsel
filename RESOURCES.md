@@ -10,3 +10,7 @@
 
 ## Trello
 * [Trello Docs](https://trello.com/guide)
+
+## Git Flow
+* [Git-Flow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+* [Git Flow Work Flow Cheat Sheet](http://danielkummer.github.io/git-flow-cheatsheet/)
