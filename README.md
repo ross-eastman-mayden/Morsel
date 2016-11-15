@@ -7,6 +7,10 @@
 1. To practice using modern technologies in a project with real life application.
 2. To practice collaboration, design and development stratergies, applicable to working in any modern software house.
 
+## Project Proposal
+
+*Find some bullet points for a project proposal* [here](PROJECT_PROPOSAL.md) 
+
 *Find a list of some useful resources here* [Resources](RESOURCES.md) 
 
 [Project Trello Board](https://trello.com/b/JXsVb3el) - contact ross.w.eastman@gmail.com
