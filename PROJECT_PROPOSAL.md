@@ -13,7 +13,8 @@
 	* Should handle validation and return success status
 	* Should handle emailing customers apon accept/reject bookings from service
 	
-##Service layer - Js/ someother visal library (electron??)+ calendar + booking/contact sheet. ###Available on desktop and tablet (possibly phone?) 
+##Service layer - Js/ someother visal library (electron??)+ calendar + booking/contact sheet.
+Available on desktop and tablet (possibly phone?) 
 ###Design concept:
 	* Should allow restraunts to accept/reject potential bookings
 	* Should show visual representation of bookings... different calendar views
