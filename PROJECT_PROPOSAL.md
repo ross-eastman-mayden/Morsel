@@ -7,14 +7,14 @@
 	* Should be availble to all modern platforms (phone, tablet, desktop)  
 
 ##Back end - php->mysql for datastore. Slim as proposed framework (great simple routing etc)
-###	Design concept:
+	###Design concept:
 	* Should accept secured api requests from front end website
 	* Should CRUD bookings
 	* Should handle validation and return success status
 	* Should handle emailing customers apon accept/reject bookings from service
 	
 ##Service layer - Js/ someother visal library (electron??)+ calendar + booking/contact sheet. ###Available on desktop and tablet (possibly phone?) 
-	Design concept:
+	###Design concept:
 	* Should allow restraunts to accept/reject potential bookings
 	* Should show visual representation of bookings... different calendar views
 	* Should alllow other app controll, such as "Out of office", "auto accept", "available time slots" etc.
