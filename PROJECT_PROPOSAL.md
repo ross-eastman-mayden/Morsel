@@ -18,4 +18,4 @@ Available on desktop and tablet (possibly phone?)
 ###Design concept:
 	* Should allow restraunts to accept/reject potential bookings
 	* Should show visual representation of bookings... different calendar views
-	* Should alllow other app controll, such as "Out of office", "auto accept", "available time slots" etc.
+	* Should allow other app control, such as "Out of office", "auto accept", "available time slots" etc.
