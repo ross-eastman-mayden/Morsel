@@ -2,7 +2,7 @@
 ##Front end - Jscripty, pokes json at api. Tech to be decided.
 ###Design concept:
 	* Simple website which allows users to book tables@times
-	* Should also contain key details of resteraunt
+	* Should also contain key details of restaurant
 	* Should allow restaurant to edit key info
 	* Should be availble to all modern platforms (phone, tablet, desktop)  
 
