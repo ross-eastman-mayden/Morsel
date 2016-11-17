@@ -1,0 +1,34 @@
+Routes for CRUD:
+
+/addBooking
+=> a uuid
+=> user info
+=> location info
+=> time info
+=> party size
+=> special dietry requirements
+  
+/showBookingDetails
+=> user info
+
+<= booking info
+<= a uuid
+
+/updateBookingDetails
+=> location info
+=> a uuid
+=> time info
+=> party size
+=> special dietry requirements
+
+<= success status
+
+/cancelBooking
+=> a uuid
+=> boolean
+
+/acceptBooking
+/showBooking
+/updateBooking
+/removeBooking
+
