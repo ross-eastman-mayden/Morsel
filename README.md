@@ -2,7 +2,7 @@
 
 **N.B - I have left the Slim 3 readme at the bottom of this file for quick reference - some of you may not have used it before.**
 
-## Objectve
+## Objective
 
 1. To practice using modern technologies in a project with real life application.
 2. To practice collaboration, design and development strategies, applicable to working in any modern software house.
