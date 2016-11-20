@@ -11,9 +11,9 @@
 	* Should accept secured api requests from front end website
 	* Should CRUD bookings
 	* Should handle validation and return success status
-	* Should handle emailing customers apon accept/reject bookings from service
+	* Should handle emailing customers upon accept/reject bookings from service
 	
-##Service layer - Js/ someother visal library (electron??)+ calendar + booking/contact sheet.
+##Service layer - Js/ some other visual library (electron??)+ calendar + booking/contact sheet.
 Available on desktop and tablet (possibly phone?) 
 ###Design concept:
 	* Should allow restraunts to accept/reject potential bookings
