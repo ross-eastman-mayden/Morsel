@@ -14,3 +14,6 @@
 ## Git Flow
 * [Git-Flow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 * [Git Flow Work Flow Cheat Sheet](http://danielkummer.github.io/git-flow-cheatsheet/)
+
+## API
+* [https requests](http://www.restapitutorial.com/lessons/httpmethods.html)
