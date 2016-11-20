@@ -14,3 +14,6 @@
 ## Git Flow
 * [Git-Flow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 * [Git Flow Work Flow Cheat Sheet](http://danielkummer.github.io/git-flow-cheatsheet/)
+
+## ORM (Eloquent) and Slim
+* [Slim docs for eloquent implementation](https://www.slimframework.com/docs/cookbook/database-eloquent.html)
