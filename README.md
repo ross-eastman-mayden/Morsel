@@ -11,7 +11,9 @@
 
 *Find some bullet points for a project proposal* [here](PROJECT_PROPOSAL.md) 
 
-*Find a list of some useful resources here* [Resources](RESOURCES.md) 
+*Find conduct document* [here](CONDUCT.MD) 
+
+*Find a list of some useful resources* [here](RESOURCES.md) 
 
 [Project Trello Board](https://trello.com/b/JXsVb3el) - contact ross.w.eastman@gmail.com
 
