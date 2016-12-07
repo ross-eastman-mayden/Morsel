@@ -17,6 +17,10 @@
 
 [Project Trello Board](https://trello.com/b/JXsVb3el) - contact ross.w.eastman@gmail.com
 
+# To "run" this project:
+	composer install
+
+* Then do the following:
 
 # Slim Framework 3 Skeleton Application
 
